@@ -1,2 +1,2 @@
 # Building-data
-507 buildings from the-building-data-genome-project
+507 buildings from the-building-data-genome-project.
